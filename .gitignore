@@ -9,3 +9,4 @@ app.db
 *.egg-info
 .vscode/
 instance
+/data/letsencrypt/acme.json
